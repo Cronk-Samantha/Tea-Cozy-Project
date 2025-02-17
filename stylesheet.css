@@ -4,3 +4,24 @@
     color: seashell;
     font-size: 22px;
 }
+
+header {
+    position: fixed;
+    padding: auto 10px;
+    height: 69px;
+    border-bottom: 1px solid seashell;
+    display: flex;
+    align-items: center;
+    opacity: 0.9;
+}
+
+.header-links {
+    list-style-type: none;
+    display: flex;
+    justify-content: flex-end;
+    text-decoration: underline;
+}
+
+.header-links li {
+    margin: 10px;
+}
