@@ -128,3 +128,11 @@ main {
 .contact-info {
     line-height: 0.5;
 }
+
+footer {
+    position: relative;
+    color: rgba(255, 245, 238, 0.8);
+    text-align: left;
+    margin-left: 20px;
+    padding: 10px;
+}
