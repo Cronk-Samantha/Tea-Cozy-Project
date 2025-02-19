@@ -1,4 +1,5 @@
 # Tea-Cozy-Project
-The layout of this project was given by codecademy and is one of the projects 
-available in the HTML/CSS course. All images and text were provided by them and
-is a way to get hands-on practice styling and laying out a webpage. 
+
+**DISCLAIMER: The images, content, and design came from codecademy.com as one of the available projects.
+
+The goal of this project was to build a site from the beginning while following the design spec that was given to me. Using flex, margin, padding, and nesting div's, I was able to create distinct sections of the page while keeping everything centered and making sure I had a solid page flow. I enjoyed creating this site because I had to problem-solve and troubleshoot on my own while still having a general guide (the design spec) of where all the elements needed to be. This is not a real company and building this was purely for practice and gave me a ton of hands on experience with styling.
