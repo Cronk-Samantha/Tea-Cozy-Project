@@ -117,3 +117,14 @@ main {
     flex: none;
     text-align: center;
 }
+
+.info-section {
+    height: 200px;
+    margin: 0 auto;
+    width: 100%;
+    text-align: center;
+}
+
+.contact-info {
+    line-height: 0.5;
+}
