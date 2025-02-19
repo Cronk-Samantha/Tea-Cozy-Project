@@ -43,4 +43,12 @@ main {
     margin: 0 auto;
     box-sizing: border-box;
     background-image: url("./images/background-image.jpg");
+    opacity: 0.9;
+}
+
+.mission-text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
 }
