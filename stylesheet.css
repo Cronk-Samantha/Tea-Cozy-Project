@@ -52,3 +52,12 @@ main {
     width: 100%;
     text-align: center;
 }
+
+.monthly-tea {
+    width: 1000px;
+    margin: 2rem auto;
+}
+
+.monthly-tea-header {
+    text-align: center;
+}
